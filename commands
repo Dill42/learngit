@@ -1,0 +1,8 @@
+echo"#githubtest">>Readme.md
+git init 
+git add README.mdgit commit -m "first commit"
+git remote add origin https://duhdhuduu.com
+git push-u origin master
+
+
+or  push an existing repository
